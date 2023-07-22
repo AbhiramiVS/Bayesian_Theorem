@@ -1,5 +1,6 @@
 # Bayesian_Theorem
 This repository implements Gaussian Bayesian classifier from scratch.
+
 Bayesian Theorem,
 P(w/X)=  (P(X/w)  P(w))/P(X) 
 
