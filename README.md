@@ -15,3 +15,5 @@ P(X) is the marginal probability of event X occurring, marginal probability refe
 P(w/X) is the posterior probability, which represents the updated probability of event w happening given that event X has occurred.
 
 Here I have used wine dataset from sklearn as data for python implementation from scratch.
+
+Blog on Bayes theorem - https://medium.com/p/ef2135d850f.
